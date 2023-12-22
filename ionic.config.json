@@ -1,0 +1,7 @@
+{
+  "name": "therapy-webapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
