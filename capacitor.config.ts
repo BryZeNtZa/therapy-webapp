@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 const config: CapacitorConfig = {
   appId: 'therapy.webapp',
   appName: 'therapy-webapp',
-  webDir: 'www',
+  webDir: 'src',
   server: {
     androidScheme: 'https'
   }
